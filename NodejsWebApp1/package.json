@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-web-app1",
+  "version": "0.0.0",
+  "description": "NodejsWebApp1",
+  "main": "server.js",
+  "author": {
+    "name": "okeskiner",
+    "email": "ogankeskiner@gmail.com"
+  },
+  "dependencies": {
+    "assert": "^1.4.0",
+    "colors": "^1.1.2"
+  }
+}
